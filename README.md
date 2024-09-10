@@ -1,7 +1,7 @@
 [![Muhammad Sameer Shahid GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSameerShahid0)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Social 
-<a href="https://www.linkedin.com/in/muhammad-sameer-shahid">![image](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg) </a> 
+<a href="https://www.linkedin.com/in/muhammad-sameer-shahid">![image](https://private-user-images.githubusercontent.com/146189016/313431459-d2d107c4-4f0b-4508-94cd-57cb0d1b97d4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5Nzk1NTYsIm5iZiI6MTcyNTk3OTI1NiwicGF0aCI6Ii8xNDYxODkwMTYvMzEzNDMxNDU5LWQyZDEwN2M0LTRmMGItNDUwOC05NGNkLTU3Y2IwZDFiOTdkNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxMFQxNDQwNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOGE2YmRkZTE0Y2I3ZjQwNmIwMzJkNDNjMTdiMmM4MzA5M2M4NTA2MjZkY2MyNzliYTE3MmY1NzJmMzE5YTdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kf8gRio7IM-D7o6zV9GOEy6BOMN1BJ6_dm02S9s-1uk) </a> 
 # My Stack  
 C# , ASP .Net MVC, ASP .Net Core, Microsoft SQL Server, HTML, CSS, Javascript
 
