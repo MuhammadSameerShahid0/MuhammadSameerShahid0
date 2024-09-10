@@ -1,7 +1,7 @@
 [![Muhammad Sameer Shahid GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSameerShahid0)](https://github.com/anuraghazra/github-readme-stats)
 
 # My Social 
-<a href="https://www.linkedin.com/in/muhammad-sameer-shahid">![image](https://github-production-user-asset-6210df.s3.amazonaws.com/146189016/313431459-d2d107c4-4f0b-4508-94cd-57cb0d1b97d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240812%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240812T142019Z&X-Amz-Expires=300&X-Amz-Signature=d48f9b10ac423d55840ad6dde9e4415ed3a6d288dd773f5d45f651630739a2b0&X-Amz-SignedHeaders=host&actor_id=169302795&key_id=0&repo_id=728367984) </a> 
+<a href="https://www.linkedin.com/in/muhammad-sameer-shahid">![image](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg) </a> 
 # My Stack  
 C# , ASP .Net MVC, ASP .Net Core, Microsoft SQL Server, HTML, CSS, Javascript
 
