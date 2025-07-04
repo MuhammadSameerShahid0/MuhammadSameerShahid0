@@ -1,19 +1,81 @@
-[![Muhammad Sameer Shahid GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSameerShahid0)](https://github.com/anuraghazra/github-readme-stats)
+# 🚀 Muhammad Sameer Shahid – .NET Developer 
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammadSameerShahid0&color=blue&style=flat)  
 
-# My Social 
-<a href="https://www.linkedin.com/in/muhammad-sameer-shahid">![image](https://private-user-images.githubusercontent.com/146189016/313431459-d2d107c4-4f0b-4508-94cd-57cb0d1b97d4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5Nzk1NTYsIm5iZiI6MTcyNTk3OTI1NiwicGF0aCI6Ii8xNDYxODkwMTYvMzEzNDMxNDU5LWQyZDEwN2M0LTRmMGItNDUwOC05NGNkLTU3Y2IwZDFiOTdkNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxMFQxNDQwNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mOGE2YmRkZTE0Y2I3ZjQwNmIwMzJkNDNjMTdiMmM4MzA5M2M4NTA2MjZkY2MyNzliYTE3MmY1NzJmMzE5YTdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kf8gRio7IM-D7o6zV9GOEy6BOMN1BJ6_dm02S9s-1uk) </a> 
-# My Stack  
-C# , ASP .Net MVC, ASP .Net Core, Microsoft SQL Server, HTML, CSS, Javascript
+[![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSameerShahid0&show_icons=true&count_private=true&theme=highcontrast)](https://github.com/MuhammadSameerShahid0)
 
-# About Me 
-I'm a Software Engineer with about 6 months of experience as a .NET Developer.
+---
 
-Creating RESTful APIs with ASP.NET Core and Entity Framework is one of my favorite tasks, but I can also work on both front-end and back-end development using the .NET stack. I can secure your ASP.NET Core application with authentication and authorization using JSON Web Tokens and Identity, including password hashing.
+## 💻 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-sameer-shahid)  
+📧 **Email**: muhammadsameershahid00@gmail.com  
 
-If you are looking for a C# and ASP.NET Core developer to deliver quality work, feel free to contact me.
+---
 
-Thanks.
-<!---
-MuhammadSameerShahid0/MuhammadSameerShahid0 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ **My Tech Stack**
+
+### 💻 **Backend & Frontend Development**  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)  ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white)  ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat&logo=nuget&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## 🌟 **About Me**  
+Hi, I'm **Muhammad Sameer Shahid**, a passionate **.NET Developer** with over **1.5 years of hands-on experience** in designing and building secure, scalable, and high-performance web applications using **ASP.NET Core**, **C#**, and modern backend technologies.
+
+💻 I specialize in developing RESTful APIs, building clean architectures, and ensuring secure authentication with **JWT** and **ASP.NET Identity**. I also work with distributed systems, queues, and cloud-based deployments.
+
+---
+
+### 📌 **Currently Learning**  
+- Advanced ASP.NET Core Architecture  
+- Microservices with RabbitMQ & gRPC  
+- Azure Cloud Services  
+- GraphQL API Development  
+
+---
+
+## 💼 **Experience**  
+
+- 🧑‍💻 **.NET Developer** – 1.5 Years  
+  - Developed scalable REST APIs using ASP.NET Core & EF Core  
+  - Implemented gRPC and RabbitMQ for service communication  
+  - Secured APIs with JWT and ASP.NET Identity  
+  - Built relational databases using SQL Server and PostgreSQL  
+  - Used Azure for deployment and managed cloud services  
+  - Applied clean architecture with repository & service layers  
+
+---
+
+## 🎓 **Education**  
+🎓 **BS in Computer Science (2019–2023)** – Hajvery University, Lahore  
+
+---
+
+## 📊 **Most Used Languages**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSameerShahid0&layout=compact&theme=highcontrast&langs_count=6)
+
+> **C# is my primary language** across most of my projects 🚀
+
+---
+
+## 📈 **GitHub Activity Graph**  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadSameerShahid0&theme=react-dark)
+
+---
+
+## ✨ **Fun Facts**  
+- I’m a strong backend-focused **.NET Core developer**  
+- I enjoy exploring topics like **API security, messaging systems**, and **cloud deployment**  
+- I’m a fan of writing **clean, reusable, and testable code**  
+- In free time, I explore **tech blogs, AI, and dev tools**  
+
+---
+
+## 🌐 **Explore More**  
+- 🔗 **GitHub Projects**: [View Repos](https://github.com/MuhammadSameerShahid0)  
+- 💼 **LinkedIn**: [Connect](https://www.linkedin.com/in/muhammad-sameer-shahid)
+
+---
