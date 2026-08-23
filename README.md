@@ -24,7 +24,7 @@
 ---
 
 ## 🌟 **About Me**  
-Hi, I'm **Muhammad Sameer Shahid**, a passionate **.NET Developer** with over **1.5 years of hands-on experience** in designing and building secure, scalable, and high-performance web applications using **ASP.NET Core**, **C#**, and modern backend technologies.
+Hi, I'm **Muhammad Sameer Shahid**, a passionate **.NET Developer** with over **2.5 years of hands-on experience** in designing and building secure, scalable, and high-performance web applications using **ASP.NET Core**, **C#**, and modern backend technologies.
 
 💻 I specialize in developing RESTful APIs, building clean architectures, and ensuring secure authentication with **JWT** and **ASP.NET Identity**. I also work with distributed systems, queues, and cloud-based deployments.
 
