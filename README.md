@@ -37,16 +37,29 @@ Hi, I'm **Muhammad Sameer Shahid**, a passionate **.NET Developer** with over **
 - GraphQL API Development  
 
 ---
+## 💼 Professional Experience
 
-## 💼 **Experience**  
+### 🏦 Mid-Level .NET Developer — AceMoney Transfer
 
-- 🧑‍💻 **.NET Developer** – 1.5 Years  
-  - Developed scalable REST APIs using ASP.NET Core & EF Core  
-  - Implemented gRPC and RabbitMQ for service communication  
-  - Secured APIs with JWT and ASP.NET Identity  
-  - Built relational databases using SQL Server and PostgreSQL  
-  - Used Azure for deployment and managed cloud services  
-  - Applied clean architecture with repository & service layers  
+**January 2026 – Present**
+
+- Developing and maintaining backend functionality for fintech and ERP applications using .NET and C#.
+- Implementing business modules based on Business Requirements Documents (BRDs).
+- Working with financial workflows, ledger-related functionality, and business rules.
+- Building maintainable application components using established architectural patterns.
+- Collaborating with technical leads, business stakeholders, and QA teams to validate functionality and resolve issues.
+- Focusing on code quality, data consistency, and reliable business processes.
+
+### 💻 .NET Developer — Devinity Solution
+
+** May 2024 – January 2026**
+
+- Developed RESTful APIs using ASP.NET Core and Entity Framework Core.
+- Implemented backend services using C#, dependency injection, and repository/service patterns.
+- Worked with relational databases, including Microsoft SQL Server and PostgreSQL.
+- Applied Clean Architecture principles to improve maintainability and separation of concerns.
+- Worked with API integrations, asynchronous programming, and backend application logic.
+- Contributed to automated testing and code-quality improvements.
 
 ---
 
