@@ -52,7 +52,7 @@ Hi, I'm **Muhammad Sameer Shahid**, a passionate **.NET Developer** with over **
 
 ### 💻 .NET Developer — Devinity Solution
 
-** May 2024 – January 2026**
+**May 2024 – January 2026**
 
 - Developed RESTful APIs using ASP.NET Core and Entity Framework Core.
 - Implemented backend services using C#, dependency injection, and repository/service patterns.
